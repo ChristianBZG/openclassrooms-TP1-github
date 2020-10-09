@@ -1,8 +1,4 @@
 # openclassrooms-TP1-github
-Ce repository me permet de réaliser le premier TP du cours github d'openclassrooms
-
-Ce qui suit est écrit depuis la console avec vim
-
 Ce repository contient trois fichiers, un PNG donnant un schéma de montage n'ayant aucun rapport avec le projet (juste pour essai), un PDF qui explique un montage de va et vient pour train miniature, un INO qui est le programme pour une carte Arduino Uno.
 
 Ces deux derniers fichiers sont suffisants pour réaliser ce montage qui est très simple.
