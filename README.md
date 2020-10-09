@@ -6,3 +6,5 @@ Ces deux derniers fichiers sont suffisants pour réaliser ce montage qui est tr�
 Le montage a déjà été publié dans Loco-Revue, et est totalement open-source.
 
 A vous de jouer...
+
+J'avais oublié un message de validation du commit
